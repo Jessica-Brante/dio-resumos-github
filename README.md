@@ -10,6 +10,7 @@ Repositório para armazenar resumos sobre o git e github do curso versionamneto 
 
 |Aulas | Resumos |
 | ------------- | -------------|
+|Aula 1 | [Resumo] () |
 | Gravando alterações no repositório local  | [Resumo]()  |
 
 ~~~
